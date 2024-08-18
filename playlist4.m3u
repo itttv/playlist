@@ -1,0 +1,119 @@
+EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 1 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 3 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 4 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 5 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 6 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA", TRUE PREMIER 1
+http://iptvtree.net:8080/F14995/a84c0963/162591
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="OLAHRAGA", SONY SPORTS TEN 1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157880.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="OLAHRAGA", SONY SPORTS TEN 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="OLAHRAGA", SONY SPORTS TEN 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157878.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="OLAHRAGA", SONY SPORTS TEN 4
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="OLAHRAGA", SONY SPORTS TEN 5
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1_hindi.png" group-title="OLAHRAGA", Star Sports 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="OLAHRAGA", Star Sports 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/239.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-3-hk-in.png" group-title="OLAHRAGA", Star Sports 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="OLAHRAGA", Star Select 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/238.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="OLAHRAGA", Star Select 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148801.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="OLAHRAGA", A Sport
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400803728.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png" group-title="OLAHRAGA", Ptv Sports
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201958.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="OLAHRAGA", beIN Sports 1 MY
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="OLAHRAGA", beIN Sports 2 MY
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg/revision/latest?cb=20150715190042" group-title="OLAHRAGA", beIN Sports 3 MY
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sporttv-mais.svg/revision/latest/scale-to-width-down/250?cb=20231020154804" group-title="OLAHRAGA", Portugal- SPORT TV +
+http://iptvtree.net:8080/F14995/a84c0963/1481
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="OLAHRAGA", Portugal- SPORT TV 1 HD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165647.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="OLAHRAGA", Portugal- Sport TV 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165648.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="OLAHRAGA", Portugal- Sport TV 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165649.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="OLAHRAGA", Sport Klub Fight
+http://iptvtree.net:8080/F14995/a84c0963/279839
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Polsat_Sport_News_2021_horizontal.svg/revision/latest/scale-to-width-down/150?cb=20210821192614" group-title="OLAHRAGA", POLSAT SPORT NEWS HD LQ
+http://iptvtree.net:8080/F14995/a84c0963/355
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png" group-title="OLAHRAGA", ASTRO ARENA 1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191853.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" group-title="OLAHRAGA", ASTRO ARENA 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/185822.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="OLAHRAGA", HUB SPORTS 1
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968_&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rbs4Pz-QULFRChkHaKUWCulXfGooJGrno3tVu-klqR1s.png" group-title="OLAHRAGA", HUB SPORTS 2
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554967_&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Hub_Sports_3.png/revision/latest?cb=20220124031747&path-prefix=ru" group-title="OLAHRAGA", HUB SPORTS 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36303.m3u8
+
+#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="OLAHRAGA", HUB SPORTS 4
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36302.m3u8
+
+#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="OLAHRAGA", HUB SPORTS 5
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36301.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 3 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 4 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 5 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 6 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA", TRUE PREMIER 1
+http://iptvtree.net:8080/F14995/a84c0963/162591
