@@ -1,485 +1,529 @@
 #EXTM3U
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/1600px-Sport_TV1_%282023%29.svg.png", Sport TV 1 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium49/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1600px-Sport_TV2_%282023%29.svg.png", Sport TV 2 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium74/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1600px-Sport_TV3_%282023%29.svg.png", Sport TV 3 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium454/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/2560px-Sport_TV4_%282023%29.svg.png", Sport TV 4 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium289/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/2560px-Sport_TV5_%282023%29.svg.png", Sport TV 5 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/1280px-Sport_TV6_%282023%29.svg.png", Sport TV 6 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="US Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png", TSN 1 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="US Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png", TSN 2 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="US Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/524a82ac877c54d21ea7d3132de37ed7.png", TSN 3 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="US Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d8a2cfab425dd04c3cf3d811ed48b338.png", TSN 4 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="US Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png", TSN 5 (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 1 Premium (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 2 Premium (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 3 Premium (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium139/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium139/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 1 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium429/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium429/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 2 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium430/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium430/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 3 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium431/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium431/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 4 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium581/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium581/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 1 Croatia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium432/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium432/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 2 Croatia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium433/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium433/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 3 Croatia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium434/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium434/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 4 Croatia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium580/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium580/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium122/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium122/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport360 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium464/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium464/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport 1 Poland (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium48/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium48/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport 2 Poland (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium73/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium73/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport 1 Afrique (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium486/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium486/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport 2 Afrique (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium487/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium487/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport 3 Afrique (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium488/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium488/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport 4 Afrique (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium489/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium489/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", Canal+ Sport 5 Afrique (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium490/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium490/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium622/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium622/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 2 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium623/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium623/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 3 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium624/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium624/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 4 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium625/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium625/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 5 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium626/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium626/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 6 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium627/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium627/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 7 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium628/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium628/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 8 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium629/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium629/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png", Cosmote Sport 9 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium630/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium630/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 1 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 2 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 3 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium402/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium402/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 4 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium403/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium403/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s", Diema Sport 1 Bulgaria (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium465/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium465/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s", Diema Sport 2 Bulgaria (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s", Diema Sport 3 Bulgaria (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG12M1YdDjr8zVra9LW-HL4dAedvMIH_gvQubGr4E7Y4OUK45ABEPbbLAS&s=10", Match Football 1 Russia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium136/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium136/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG12M1YdDjr8zVra9LW-HL4dAedvMIH_gvQubGr4E7Y4OUK45ABEPbbLAS&s=10", Match Football 2 Russia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium137/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium137/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG12M1YdDjr8zVra9LW-HL4dAedvMIH_gvQubGr4E7Y4OUK45ABEPbbLAS&s=10", Match Football 3 Russia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium138/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium138/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png", Movistar Laliga Spain (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium84/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium84/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png", Movistar Liga de Campeones (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium435/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium435/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png", Movistar Deportes 1 Spain (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium436/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium436/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png", Movistar Deportes 2 Spain (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium438/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium438/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png", Movistar Deportes 3 Spain (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium526/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium526/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png", Movistar Deportes 4 Spain (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium527/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium527/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s", Max Sport 1 Croatia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium779/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium779/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s", Max Sport 2 Croatia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium780/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium780/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s", Marquee Sports Network (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium770/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium770/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s", Max Sport 1 Bulgaria (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium472/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium472/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s", Max Sport 2 Bulgaria (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium473/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium473/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s", Max Sport 3 Bulgaria (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium474/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium474/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s", Max Sport 4 Bulgaria (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium475/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium475/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sport Bulgaria (web) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium468/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium468/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sport Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium582/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium582/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports 1 Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports 2 Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports 3 Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports 4 Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports 5 Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium635/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium635/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports 6 Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium636/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium636/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports Premier League Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium539/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium539/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports Start Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium637/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium637/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports Prime Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium638/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium638/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmIVqx4kLKpr7wU9GTFBFeTlFYsCTyiJmMkyfu4jV3higw2_BiNStNbXE&s=10", Nova Sports News Greece (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium639/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium639/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7eOAOYjeKIa4UT5mWy6IOEFN7oVk6C0T1w&s", Orange Sport 1 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium439/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium439/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7eOAOYjeKIa4UT5mWy6IOEFN7oVk6C0T1w&s", Orange Sport 2 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium440/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium440/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7eOAOYjeKIa4UT5mWy6IOEFN7oVk6C0T1w&s", Orange Sport 3 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium441/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium441/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7eOAOYjeKIa4UT5mWy6IOEFN7oVk6C0T1w&s", Orange Sport 4 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium442/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium442/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png", Prima Sport 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium583/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium583/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png", Prima Sport 2 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium584/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium584/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png", Prima Sport 3 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png", Prima Sport 4 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium586/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium586/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 1 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium101/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium101/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 2 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium102/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium102/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 3 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium103/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium103/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 4 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium104/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium104/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub HD Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium453/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium453/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkGmLLfg5c0jEegpILDoz7xNyZOFoCmzFFixkroddTIZY7SlSaF7w3IA7&s=10", Ziggo Sport Docu NL (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium383/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium383/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkGmLLfg5c0jEegpILDoz7xNyZOFoCmzFFixkroddTIZY7SlSaF7w3IA7&s=10", Ziggo Sport Select NL (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium393/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium393/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkGmLLfg5c0jEegpILDoz7xNyZOFoCmzFFixkroddTIZY7SlSaF7w3IA7&s=10", Ziggo Sport Racing NL (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium396/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium396/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkGmLLfg5c0jEegpILDoz7xNyZOFoCmzFFixkroddTIZY7SlSaF7w3IA7&s=10", Ziggo Sport Voetbal NL (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium398/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium398/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport 2 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium615/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium615/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport 3 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium616/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium616/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport 4 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium617/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium617/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport 5 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium618/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium618/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport Extra 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium619/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium619/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport Extra 2 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport Extra 3 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", beIN Sports MENA 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", beIN Sports MENA 2 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", beIN Sports MENA 3 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp", beIN Sports MENA 4 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium94/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium94/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp", beIN Sports MENA 5 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium95/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium95/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp", beIN Sports MENA 6 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium96/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium96/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp", beIN Sports MENA 7 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 1 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium116/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium116/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 2 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium117/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium117/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 3 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium118/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium118/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports Max 4 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium494/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium494/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports Max 5 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium495/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium495/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports Max 6 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium496/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium496/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports Max 7 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium497/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium497/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports Max 8 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium498/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium498/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports Max 9 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium499/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium499/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports Max 10 France (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium500/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium500/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 1 Turkey (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium62/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium62/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 2 Turkey (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium63/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium63/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 3 Turkey (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium64/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium64/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 4 Turkey (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium67/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium67/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 1 Australia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium491/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium491/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 2 Australia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium492/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium492/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 3 Australia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 1 UK (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/1111
-https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 2 UK (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium42/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium42/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 1 Poland (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium57/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium57/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 2 Poland (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium58/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium58/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 1 Spain (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium524/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium524/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 2 Spain (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium525/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium525/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 1 Italy (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium878/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium878/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EuroSport 2 Italy (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium879/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium879/index.m3u8|Origin=https://claplivehdplay.ru
