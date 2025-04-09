@@ -39,7 +39,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8?app_type=web&amp;user
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1  tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="National TV", GTV
-https://allcutv.rctiplus.id/gtv2023.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="National TV",Cinemax
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
@@ -131,13 +131,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="National TV", MNCTV
-https://allcutv.rctiplus.id/mnctv2023.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="National TV", MNCTV
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title="National TV", RCTI (R+)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="National TV", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1  tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title="National TV", RCTI+(2023)
-https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1  tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="National TV", RCTI+(2023)
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
