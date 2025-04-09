@@ -141,3 +141,27 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1  tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="National TV", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="Shareext@LOKAL_ID", INEWS_+(sdi)
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg",TVONE
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg",KOMPAS TV
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg",MDTV
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg",JAKTV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg",TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg",TVRI SPORT
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
